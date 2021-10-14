@@ -1,0 +1,7 @@
+name = "lucide-icons"
+upload-to-group-id = 12600685
+
+[[inputs]]
+glob = "icons/*.png"
+codegen = true
+codegen-path = "src/modules/util/icons.lua"
