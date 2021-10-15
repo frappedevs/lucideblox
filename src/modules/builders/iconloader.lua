@@ -1,6 +1,6 @@
 return function(PluginService, assets, modules, widget)
     local iconComponent = require(modules.components.icon)
-    local icons = require(modules.util.icons)
+    local icons = require(modules.util.iconsFetcher)
 
     for name, id in pairs(icons.icons) do
         local icon = iconComponent.new(name, id, widget.View.UI.List)
