@@ -1,0 +1,5 @@
+for file in *.svg; do inkscape $file -w 1024 -h 1024 -o ${file%svg}png; done
+rm -rf *.svg
+for file in *.png; do convert $file -channel RGB -negate ${file%png}png; done
+pixelfix *
+tarmac sync --target roblox --retry 3 --retry-delay 10

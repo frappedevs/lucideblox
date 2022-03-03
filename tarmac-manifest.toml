@@ -58,9 +58,69 @@ hash = "87032e95372a9cfa424d20b7ac896a10ceb19efeb79c82f7f817d4cf3fbe3274"
 id = 7733658504
 packable = false
 
+[inputs."icons/align-center-horizontal.png"]
+hash = "46659ccb115f8a60773745263de9c9d044c606db4884cae42a885772a1bded15"
+id = 8997380477
+packable = false
+
+[inputs."icons/align-center-vertical.png"]
+hash = "5b20bde265e9a2bf2b809e8fc486c3735fd13056b6575c20306475b22b4e1412"
+id = 8997380737
+packable = false
+
 [inputs."icons/align-center.png"]
 hash = "7447e2665c4e26e7df5377bda2d913f3ecaeb9f66a45ac449484f9266670583a"
 id = 7733909776
+packable = false
+
+[inputs."icons/align-end-horizontal.png"]
+hash = "3bb7100aece3e98283f6230d72d64336402c0bb4a7cd30ae737916da07fe9474"
+id = 8997380820
+packable = false
+
+[inputs."icons/align-end-vertical.png"]
+hash = "97d57f7a708f893e44373032f42fb44bfce0cf9790209a79a571360a15be87e7"
+id = 8997380907
+packable = false
+
+[inputs."icons/align-horizonal-distribute-center.png"]
+hash = "9f373e45b506001e9461b6d6843d1eb489ea1b950d113d2582172c622c7c615a"
+id = 8997381028
+packable = false
+
+[inputs."icons/align-horizonal-distribute-end.png"]
+hash = "4ff2f43c3bc0bbb60e4d09666dd50f5908f3cedfdfa860865738bdea30aadb8f"
+id = 8997381144
+packable = false
+
+[inputs."icons/align-horizonal-distribute-start.png"]
+hash = "726808e68faef2c0d427bedaf1acc8f268f086591ddf229c2405cdcc5333dda3"
+id = 8997381290
+packable = false
+
+[inputs."icons/align-horizontal-justify-center.png"]
+hash = "2955161b122ff0702bc6efecd4ac596131583843d1a0a0eb3d5e430f8ae461c5"
+id = 8997381461
+packable = false
+
+[inputs."icons/align-horizontal-justify-end.png"]
+hash = "076ca4d44633142e8b9ae3e0fc22082068800ea73e45bec99a0d5059067ab5ab"
+id = 8997381549
+packable = false
+
+[inputs."icons/align-horizontal-justify-start.png"]
+hash = "d8b7a448abee7feff5ea383117462677dbb76bd4d4e2db8ba33dee96a0974b1a"
+id = 8997381652
+packable = false
+
+[inputs."icons/align-horizontal-space-around.png"]
+hash = "204e021909d446b10b24de8bd684c3038c8dfcfda8649ccc8587ef436f126b88"
+id = 8997381738
+packable = false
+
+[inputs."icons/align-horizontal-space-between.png"]
+hash = "b6b30a5f42a84e07b4ca6f333e73564ef90379612cf68bf467b4f0d288511990"
+id = 8997381854
 packable = false
 
 [inputs."icons/align-justify.png"]
@@ -76,6 +136,56 @@ packable = false
 [inputs."icons/align-right.png"]
 hash = "ddc6a573b960bfcbfdad917818f4770e2a8cec4029f5b2f6397ac59bf925c994"
 id = 7733663582
+packable = false
+
+[inputs."icons/align-start-horizontal.png"]
+hash = "816a5d0be95721a289e67e052277193ed8851e46be79400050125ed2d98db539"
+id = 8997381965
+packable = false
+
+[inputs."icons/align-start-vertical.png"]
+hash = "424bc9757b7a101fcdcdfb56770c28dbadf272fafebfb49c5bbb316c687cb9ad"
+id = 8997382085
+packable = false
+
+[inputs."icons/align-vertical-distribute-center.png"]
+hash = "fbb63464f6d2ff38dd586dd621f8253a46f3f02840933ce953e880e9d37a9f99"
+id = 8997382212
+packable = false
+
+[inputs."icons/align-vertical-distribute-end.png"]
+hash = "0191e783d68313a53166784b31952cdc664661ea16cf125f4e2a24673be38006"
+id = 8997382326
+packable = false
+
+[inputs."icons/align-vertical-distribute-start.png"]
+hash = "acb6d3d6da184adec863a6348949649da3526f4740cb56849cde8044c1425756"
+id = 8997382428
+packable = false
+
+[inputs."icons/align-vertical-justify-center.png"]
+hash = "7a28996f095fc81c1f54937965bad1ac441dd88c0eed7cc31e56ca4d4f12937f"
+id = 8997382502
+packable = false
+
+[inputs."icons/align-vertical-justify-end.png"]
+hash = "d647a4ad87c94541d8b368e730b1e4eec5b207d24e9e38aad0c773d8eb09eafb"
+id = 8997382584
+packable = false
+
+[inputs."icons/align-vertical-justify-start.png"]
+hash = "b089fec2ed0f5beff10c4a18dbf4a5a3e3877ac37b71e424514daccc422e27ba"
+id = 8997382639
+packable = false
+
+[inputs."icons/align-vertical-space-around.png"]
+hash = "8478a53c38d862f4ec46021b729837f55e339c655149864975490222fc0a48f4"
+id = 8997382708
+packable = false
+
+[inputs."icons/align-vertical-space-between.png"]
+hash = "d6cb78739479e984b978ab44d65427d77b30a6879020d28cdaa688c668e134b5"
+id = 8997382793
 packable = false
 
 [inputs."icons/anchor.png"]
@@ -136,6 +246,11 @@ packable = false
 [inputs."icons/arrow-left-circle.png"]
 hash = "98352b419b54581767202aac8b594562db1e04227c5856b376a6a3962a2ffd18"
 id = 7733673056
+packable = false
+
+[inputs."icons/arrow-left-right.png"]
+hash = "f51eceb08cdd185b60a0129bfd7582387ea776a923dc290f5c014f6ac4495903"
+id = 8997382869
 packable = false
 
 [inputs."icons/arrow-left.png"]
@@ -388,9 +503,19 @@ hash = "adc167a88b8d0701349d83133bc75d7d91d39b12c079e84b292b9786e57e7904"
 id = 7733708835
 packable = false
 
+[inputs."icons/carrot.png"]
+hash = "1774b751ad59f8cfd3f1e8f256772bfb0bc3e3ef26019e55a970fb137c8d5444"
+id = 8997382987
+packable = false
+
 [inputs."icons/cast.png"]
 hash = "be86e31b8f0e2f55cf2beb406959678d04731b781966cc6f77c24a3a872a6b2e"
 id = 7733919326
+packable = false
+
+[inputs."icons/charge.png"]
+hash = "7da2e415d928838e145a9dc3ce02d3f6e6c471c2390f5e3279f9a3d553abb6e3"
+id = 8997383136
 packable = false
 
 [inputs."icons/check-circle-2.png"]
@@ -416,6 +541,16 @@ packable = false
 [inputs."icons/chevron-down.png"]
 hash = "8050b632365957b29419ebfda38dbd0467234df583917fc377cec88634595fb9"
 id = 7733717447
+packable = false
+
+[inputs."icons/chevron-first.png"]
+hash = "6f0372c485a8b68a7fed90578bb85f5ff1e4ef1912e3cd13ac7629c756ee9e6a"
+id = 8997383275
+packable = false
+
+[inputs."icons/chevron-last.png"]
+hash = "87235fc57c0eb35be313ca25a9918bbc2c7e528672db53ae24f45d4ec7b4c169"
+id = 8997383390
 packable = false
 
 [inputs."icons/chevron-left.png"]
@@ -468,6 +603,11 @@ hash = "2fa4e221a03d1041373e17ce2534e5c9fae9f915a502720fc363b6907781caa0"
 id = 7733919783
 packable = false
 
+[inputs."icons/circle-slashed.png"]
+hash = "54fff96a2a30b7c1f6b668d8cfb0fd77a51dfd7596b2114d540180f9e02554ac"
+id = 8997383530
+packable = false
+
 [inputs."icons/circle.png"]
 hash = "5a58c74e79a74ce4e6c7b7eec9c321b0886051cb3122c841d37fc491d9777f27"
 id = 7733919881
@@ -496,6 +636,66 @@ packable = false
 [inputs."icons/clipboard.png"]
 hash = "7a728993a961e9bb52a66b0a2d794c116a47d301e0244f09d626207cf36fe430"
 id = 7733734762
+packable = false
+
+[inputs."icons/clock-1.png"]
+hash = "bc2d51edc08c093dc7715a850890500e15538f0d68f5ccaf8ab4425ecb969480"
+id = 8997383694
+packable = false
+
+[inputs."icons/clock-10.png"]
+hash = "146a954680657b3b9181821773f71dda5a421e447eda282c81ee6f5ed85c7217"
+id = 8997383876
+packable = false
+
+[inputs."icons/clock-11.png"]
+hash = "dcfbff3f8799d6ca8ca58a44822fbccedd709fbada2ee2af49761e79f8068431"
+id = 8997384034
+packable = false
+
+[inputs."icons/clock-12.png"]
+hash = "3f27f4826a4b59aed64c311032125ff7f8896e115eae95c6e9673d7a509cd13d"
+id = 8997384150
+packable = false
+
+[inputs."icons/clock-2.png"]
+hash = "fac04b95c9d331b46fd788c37787d93564b8d5eba82d3df3fad4a454eebcd5e2"
+id = 8997384295
+packable = false
+
+[inputs."icons/clock-3.png"]
+hash = "25f598120f166708c537d74ec5d404c5d6f46d6899109f96e923b69c0f6e23bc"
+id = 8997384456
+packable = false
+
+[inputs."icons/clock-4.png"]
+hash = "d3a8e367bfdbb983f2d5d341fe8b969bbbc80bdbd6401a2c4a7dcd0073aaf96a"
+id = 8997384603
+packable = false
+
+[inputs."icons/clock-5.png"]
+hash = "fa224e3b73e9e8468dbebebca66913b7e8c868bc3a9fbf163c7769b41ef4b0d7"
+id = 8997384798
+packable = false
+
+[inputs."icons/clock-6.png"]
+hash = "224ea4e5f02fb52f5912d5f373c18821994029a7696a24d63e2f5f4e84d2a1e4"
+id = 8997384977
+packable = false
+
+[inputs."icons/clock-7.png"]
+hash = "dcc2200a3ae039f492750c4a37555eb3be862266a861f2074cd142484d03737b"
+id = 8997385147
+packable = false
+
+[inputs."icons/clock-8.png"]
+hash = "478a697e5d567cb32a80db8d48380efc06cb409142c941be8a5badcf42664ce6"
+id = 8997385352
+packable = false
+
+[inputs."icons/clock-9.png"]
+hash = "2293cb78a5d0f9a957b6f5fe54f02d91193bdad184b9a94723583776a75e280f"
+id = 8997385485
 packable = false
 
 [inputs."icons/clock.png"]
@@ -621,6 +821,11 @@ packable = false
 [inputs."icons/contrast.png"]
 hash = "661ce228fec5b17c1008263f80613beac3898a9c773ea40cc51711459c016892"
 id = 7733764005
+packable = false
+
+[inputs."icons/cookie.png"]
+hash = "705d96164cbc48ec730b78b55cf4c2f48f07ddd8d2f13f8a71d4f0b46a338660"
+id = 8997385628
 packable = false
 
 [inputs."icons/copy.png"]
@@ -763,6 +968,11 @@ hash = "57261d763b658489daadd161ad5f7f96927253d9c581b5337e08160b19b6d16b"
 id = 7733771078
 packable = false
 
+[inputs."icons/drumstick.png"]
+hash = "00b201c750982ad7582353a3a696099b965a56b8fefcbc596e9092ba2ca22d80"
+id = 8997385789
+packable = false
+
 [inputs."icons/edit-2.png"]
 hash = "7e960e84b9d101ee86a18f0bac87bc05a109580e9799ca805333dc16ad3b1450"
 id = 7733771217
@@ -776,6 +986,11 @@ packable = false
 [inputs."icons/edit.png"]
 hash = "bb54b1263b33b0a837887f65760cb775abf0ea3f8ee715d13ebc395330371003"
 id = 7733771472
+packable = false
+
+[inputs."icons/egg.png"]
+hash = "60eb231c1e75e84aac7acbfc7c18ea32552e27dadc6f1de31df49f26465b68d1"
+id = 8997385940
 packable = false
 
 [inputs."icons/electricity-off.png"]
@@ -971,6 +1186,11 @@ packable = false
 [inputs."icons/folder-minus.png"]
 hash = "1a946ee307aabd801db7354be00635858655019c0429c62effbd3e52be6a6046"
 id = 7733799022
+packable = false
+
+[inputs."icons/folder-open.png"]
+hash = "97aa9b9e1dbfdc85ebc8d16de408152227ca61508bc0c8a9d935fc3c7014ba67"
+id = 8997386062
 packable = false
 
 [inputs."icons/folder-plus.png"]
@@ -1633,6 +1853,31 @@ hash = "364cb5cbfbd85a32e1c68824c04029edf31a1f6a3ea514bc057bb7f796234d7e"
 id = 7734021384
 packable = false
 
+[inputs."icons/package-check.png"]
+hash = "a4650daafa8f71979c3bd015128045686ca62006d798df13e78db0736fbc274b"
+id = 8997386143
+packable = false
+
+[inputs."icons/package-minus.png"]
+hash = "7c1b8de936244457417fe1e4356c2af33b1ee3e8fc4c97c8b3c43dc54c65d617"
+id = 8997386266
+packable = false
+
+[inputs."icons/package-plus.png"]
+hash = "9b849a4f8220c48895fd4693773b51a40d618bf8a0303cd37c88f3c476d2b745"
+id = 8997386355
+packable = false
+
+[inputs."icons/package-search.png"]
+hash = "cf316392432fd461d367976cec59abee4bd505a086d0c8ba889cfa18ceceb5f7"
+id = 8997386448
+packable = false
+
+[inputs."icons/package-x.png"]
+hash = "46beddfc32d130ebaceda79ceb7fd0461f6c92757cacc4e31f14f19d9678f5e3"
+id = 8997386545
+packable = false
+
 [inputs."icons/package.png"]
 hash = "9e7b302029267c404770d69b851801a9c1dac7d6f988e426306398c60ea5dd33"
 id = 7734021469
@@ -1726,6 +1971,11 @@ packable = false
 [inputs."icons/piggy-bank.png"]
 hash = "ef845d60f0515a9dc17b8f58f435f7b9390f3f3887afc6c3ff8b638b6b9985e2"
 id = 7734034513
+packable = false
+
+[inputs."icons/pin.png"]
+hash = "a194c03d3383d5cd0258507f7c3e6f3948957b3f93ee69bf69fdb0a0c7a3e7e4"
+id = 8997386648
 packable = false
 
 [inputs."icons/pipette.png"]
@@ -1903,6 +2153,16 @@ hash = "6b0f3b7f14b0c0dde74781b55f955a1d6901c37cb7d559996c2b1b6188626a98"
 id = 7734052454
 packable = false
 
+[inputs."icons/scan-line.png"]
+hash = "332f27539ebff10bfab235fa37b1fdcd3402c23175dfa87f09fb7e6d76f701b8"
+id = 8997386772
+packable = false
+
+[inputs."icons/scan.png"]
+hash = "ffe1918a19ca6d870f2b5d05536759c3aa3b2307b7782633f2c9d4390c58c2da"
+id = 8997386861
+packable = false
+
 [inputs."icons/scissors.png"]
 hash = "1e494974333f5e95d70c715950a0dcff5d490768287a7472870ad448697534f7"
 id = 7734052570
@@ -1951,6 +2211,11 @@ packable = false
 [inputs."icons/server.png"]
 hash = "6a1919774b46126b71df971058fa999cb18702305e5be477ba142de6613a728f"
 id = 7734053426
+packable = false
+
+[inputs."icons/settings-2.png"]
+hash = "2ae97f8c69e467d838ae0c37994beaa36c8722b077cddd8f2a85058ce63f5a05"
+id = 8997386997
 packable = false
 
 [inputs."icons/settings.png"]
@@ -2048,6 +2313,31 @@ hash = "83494185d8228a6344cd18a88344527ba13d5d16590b37ea535be1cfcab1dfec"
 id = 7734058345
 packable = false
 
+[inputs."icons/signal-high.png"]
+hash = "8be08b618e8568785fead5c7989109f3abbd7593da4333597c89ef362296fa74"
+id = 8997387110
+packable = false
+
+[inputs."icons/signal-low.png"]
+hash = "99cf12f19b8c5d7091ff3f5ca54897b1026da29768e3619b62f9ab8081f45bb7"
+id = 8997387189
+packable = false
+
+[inputs."icons/signal-medium.png"]
+hash = "9a06d25dac6c5d99246ad2b991245e55b07bda4933a9d732ee1e3be4e1c196b9"
+id = 8997387319
+packable = false
+
+[inputs."icons/signal-zero.png"]
+hash = "25f0eef4cf3d02c062828aea5768a81da27346232f05ef95400312fd1fe069f8"
+id = 8997387434
+packable = false
+
+[inputs."icons/signal.png"]
+hash = "78230d589c73e2d84dafe9e506b95daa1af2ab31635bc40b84bb63394a20994f"
+id = 8997387546
+packable = false
+
 [inputs."icons/skip-back.png"]
 hash = "3a7b6ec469eeb318659fb5e1e760fdc62a5c7cf1a535fc1fd6bb329be5515fa9"
 id = 7734058404
@@ -2061,6 +2351,11 @@ packable = false
 [inputs."icons/skull.png"]
 hash = "a1943912317f4145b9c172cffd3317db8ba8a9b6c89c95260a1d754e42813cc0"
 id = 7734058599
+packable = false
+
+[inputs."icons/slash.png"]
+hash = "05b0faea98f29409c8428a1e19c24f065bc5f73a54587821f27775a52de2a2e5"
+id = 8997387644
 packable = false
 
 [inputs."icons/sliders.png"]
@@ -2128,9 +2423,24 @@ hash = "5d144ee8b0f5640a42e93df16d61b302cd85d9512c4e991dec9ccd32fbf3c981"
 id = 7734068379
 packable = false
 
+[inputs."icons/stretch-horizontal.png"]
+hash = "9f1b4060e5e3c1d1625ce863398a099033f006a69f6b2d3d6a0dddd15ef2c84e"
+id = 8997387754
+packable = false
+
+[inputs."icons/stretch-vertical.png"]
+hash = "db01b3489a861d302ae01e0893c286f8554562b58059b1a0c3aed15ad431e98a"
+id = 8997387862
+packable = false
+
 [inputs."icons/strikethrough.png"]
 hash = "d5b20422b50cad665e1e512a66933c61b6b1b5fae269a846b5d1f1669d022aa9"
 id = 7734068425
+packable = false
+
+[inputs."icons/subscript.png"]
+hash = "e4f6e1a51f2006f88a5760377904163ad46436565661e03f9d2835b613c6469f"
+id = 8997387937
 packable = false
 
 [inputs."icons/sun.png"]
@@ -2146,6 +2456,11 @@ packable = false
 [inputs."icons/sunset.png"]
 hash = "19f87a2471d98e39c96558d4000326e45d951365a2846a39a2157081c54621eb"
 id = 7734070982
+packable = false
+
+[inputs."icons/superscript.png"]
+hash = "903621089c64b9413977f12295685f90fdb7664d120bccf0c5fe4d0d22f1ee05"
+id = 8997388036
 packable = false
 
 [inputs."icons/swiss-franc.png"]
@@ -2193,6 +2508,16 @@ hash = "50157fd6bfdf94956ada522bfbf9e93952a0a02229d0aac50f0f1d44e06c4f1b"
 id = 7743872929
 packable = false
 
+[inputs."icons/text-cursor-input.png"]
+hash = "c0e5d3054b07cecd236aadaa4fbd3058ffcac5879ec7c8e577892dc08b0af576"
+id = 8997388094
+packable = false
+
+[inputs."icons/text-cursor.png"]
+hash = "cdb13ac83617045087c0420217d1a2ec72251cdc27c18b7e47a429bcb805ffb1"
+id = 8997388195
+packable = false
+
 [inputs."icons/thermometer-snowflake.png"]
 hash = "a4f6934e030d50a5bfd0583fb9398efce7ff84742ec541d6e17e15d0674fc22d"
 id = 7743873074
@@ -2221,6 +2546,11 @@ packable = false
 [inputs."icons/ticket.png"]
 hash = "4170a2aabca18cac15afe3c86b310ec8ba6a7ac21e37bed6caa135604b976ab5"
 id = 7734086558
+packable = false
+
+[inputs."icons/timer-off.png"]
+hash = "79f27dc7e4e68dcc085186021aa2e94fad92d9fb7efc094bf81bdc1194523a57"
+id = 8997388325
 packable = false
 
 [inputs."icons/timer-reset.png"]
@@ -2423,6 +2753,11 @@ hash = "20765ba36f9cb808f78252c8c7d651bd3819d8ef0d5a794b3c7b6de0e5c10d89"
 id = 7743877573
 packable = false
 
+[inputs."icons/wand.png"]
+hash = "9c678ea3ef7da6601aeaa31126963010095bf0c225acbb37bc1b1c082f885654"
+id = 8997388430
+packable = false
+
 [inputs."icons/watch.png"]
 hash = "f4a9c523331b504b99b103f1ebf7fc86d62940a846071bc20affb129d67ea471"
 id = 7743877668
@@ -2446,6 +2781,11 @@ packable = false
 [inputs."icons/wind.png"]
 hash = "1e2b99fe6a0f787ed073a6f4df42f824f3b8c69478020fca03358b834c7f9a08"
 id = 7743878264
+packable = false
+
+[inputs."icons/wrap-text.png"]
+hash = "a1b6c2c7c91ad469d824b67d317618853a37333b79adf1a405548dd6406ac5e9"
+id = 8997388548
 packable = false
 
 [inputs."icons/wrench.png"]
