@@ -1,7 +1,9 @@
-# Lucide Icons
+# Lucide Icons for Roblox
 
-Open source, community port of Lucide Icons for Roblox.
+You are at the `v2` branch, an experimental version that is not functional yet!
+This new version gives the plugin a complete redo to make the UI UX more native to Studio and ergonomic to use. As well as other benefits such as optimized icon listing. V2 uses Fusion (elttob), FusionStudioComponents (mvyasu), FusionRouter (frappedevs) to build its frontend.
 
+V2 uses a way different icon datasheet structure that is not compatible with the current version.
 ## Contributing
 
 When there's a new icon from Lucide, you may add it into this repository by submitting a PR (pull request), do the following steps when you are putting in the icons:
